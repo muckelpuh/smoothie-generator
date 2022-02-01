@@ -40,7 +40,7 @@ Here's an example:
 
 * User input: apple, banana, carrot, orange, pear, strawberry
 
-| Typ         | Ingridient 1 | Ingridient 2 | Ingridient 3 | Ingridient 4 |
+| Typ         | Ingredient 1 | Ingredient 2 | Ingredient 3 | Ingredient 4 |
 | ----------- | ------------ | ------------ |------------ |------------ |
 | Recipe 1    | apple        | banana | carrot | orange
 | Recipe 2    | pear        | Brokolli | carrot | lemon
